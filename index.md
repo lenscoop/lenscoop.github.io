@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lenscoop Blog!
-tagline: Supporting tagline
+tagline: The Lanscape of computer vision
 ---
 {% include JB/setup %}
 
